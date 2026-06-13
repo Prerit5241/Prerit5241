@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Prerit Thakur 👋
 
-<!--
-**Prerit5241/Prerit5241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from Himachal Pradesh, India.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- Node.js
+- Express.js
+- PHP
+- JavaScript
+- MongoDB
+- MySQL
+- Git & GitHub
+
+## 🌟 Featured Projects
+
+### 🌐 Portfolio Website
+Live: https://your-portfolio-url
+
+### 🚀 Codesself.in
+Live: https://www.codesself.in
+
+### 🛒 GroceryHub
+Live: https://groceryapp1.vercel.app/
+
+### 🌦️ Weather Forecast App
+Live: https://weather-forcast-app-seven.vercel.app/
+
+## 📫 Contact
+
+LinkedIn: your-linkedin-url
+Email: preritthakur2800@gmail.com
