@@ -16,7 +16,7 @@ Full Stack Developer from Himachal Pradesh, India.
 ## 🌟 Featured Projects
 
 ### 🌐 Portfolio Website
-Live: https://your-portfolio-url
+Live: https://portfolio-3-d-chi-one.vercel.app/
 
 ### 🚀 Codesself.in
 Live: https://www.codesself.in
